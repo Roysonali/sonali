@@ -1,2 +1,39 @@
-# sonali
-Hello world, this is my profile
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Sonali and I'm a final year B.tech student</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Diving deep into the world of Data Science, constantly learning and evolving to transform raw data into meaningful insights. 🚀📊 </p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="data:image/png;base64,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"  />
+  <img width="12" />
+  <img src=""  />
+  <img width="12" />
+  <img src=""  />
+  <img width="12" />
+  <img src=""  />
+  <img width="12" />
+  <img src=""  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
